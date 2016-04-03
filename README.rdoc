@@ -1,0 +1,3 @@
+== Test Repository
+
+Quite simply, this repository project is created to test pull requests as instructed by Checkpoint 50 of the Ruby on Rails curriculum.
