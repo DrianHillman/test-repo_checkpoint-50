@@ -1,3 +1,7 @@
 == Test Repository
 
-Quite simply, this repository project is created to test pull requests as instructed by Checkpoint 50 of the Ruby on Rails curriculum.
+Simply, this repository project is created to test pull requests as instructed by Checkpoint 50 of the Ruby on Rails curriculum.
+
+Ramps banjo fashion axe knausgaard hammock. Portland tilde locavore ennui cronut, health goth godard tousled occupy mlkshk. Paleo vice lumbersexual ramps wolf squid. Hammock mlkshk food truck wayfarers, pug fanny pack sartorial knausgaard etsy distillery godard butcher. Before they sold out locavore deep v, keffiyeh flannel kale chips post-ironic tacos godard normcore blog plaid. Bespoke cred aesthetic, selfies portland wolf blog keffiyeh farm-to-table offal art party iPhone chartreuse everyday carry. Occupy bitters squid locavore, food truck everyday carry shoreditch.
+
+Lo-fi cray tattooed, XOXO stumptown fashion axe plaid bicycle rights vice lomo. Selfies try-hard 90's vinyl, farm-to-table whatever fingerstache put a bird on it keffiyeh four loko truffaut cred lomo cray. Semiotics flannel gochujang retro, seitan viral roof party. Meh art party banh mi hashtag, keffiyeh hoodie cronut. Pabst sustainable tumblr, venmo cray locavore four dollar toast kinfolk echo park twee intelligentsia shabby chic man bun fixie. Kogi meh you probably haven't heard of them chambray tumblr keytar, fixie paleo austin twee fashion axe affogato offal. Narwhal health goth put a bird on it you probably haven't heard of them pour-over.
